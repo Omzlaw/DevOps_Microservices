@@ -1,1 +1,4 @@
-<paste log output from Kubernetes-mediated prediction, here>
+NAME                                                 READY   STATUS    RESTARTS   AGE
+machine-learning-microservice-kube-5b9f8587b-jdq6b   1/1     Running   0          59s
+Forwarding from 0.0.0.0:8000 -> 80
+Handling connection for 8000

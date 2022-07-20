@@ -15,4 +15,4 @@ kubectl create deploy machine-learning-microservice-kube --image=$dockerpath
 kubectl get pods 
 # Step 4:
 # Forward the container port to a host
-kubectl port-forward pod/machine-learning-microservice-kube-5b9f8587b-w4dhw --address 0.0.0.0 8000:80
+kubectl port-forward pod/machine-learning-microservice-kube-5b9f8587b-jdq6b --address 0.0.0.0 8000:80
