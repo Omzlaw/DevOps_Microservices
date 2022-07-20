@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![Omzlaw](https://circleci.com/gh/Omzlaw/DevOps_Microservices.svg?style=svg)](https://github.com/Omzlaw/DevOps_Microservices)
 
 ## Project Overview
 
