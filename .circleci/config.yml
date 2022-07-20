@@ -13,6 +13,11 @@ jobs:
 
     steps:
     - checkout
+    
+    - run:
+        name: cd to project directory
+        command: |
+          cd project-ml-microservice-kubernetes
 
     # Download and cache dependencies
     - restore_cache:
